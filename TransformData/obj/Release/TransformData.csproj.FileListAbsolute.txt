@@ -1,0 +1,9 @@
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\bin\Release\TransformData.exe.config
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\bin\Release\TransformData.exe
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\bin\Release\TransformData.pdb
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Release\TransformData.Form1.resources
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Release\TransformData.Properties.Resources.resources
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Release\TransformData.csproj.GenerateResource.cache
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Release\TransformData.csproj.CoreCompileInputs.cache
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Release\TransformData.exe
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Release\TransformData.pdb

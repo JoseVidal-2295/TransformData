@@ -1,0 +1,10 @@
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\bin\Debug\TransformData.exe.config
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\bin\Debug\TransformData.exe
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\bin\Debug\TransformData.pdb
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Debug\TransformData.Properties.Resources.resources
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Debug\TransformData.csproj.GenerateResource.cache
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Debug\TransformData.csproj.CoreCompileInputs.cache
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Debug\TransformData.exe
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Debug\TransformData.pdb
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Debug\TransformData.csprojAssemblyReference.cache
+C:\Users\Jose Vidal Asencio\source\repos\TransformData\TransformData\obj\Debug\TransformData.FrmData.resources
